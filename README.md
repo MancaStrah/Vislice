@@ -1,9 +1,7 @@
 # Vislice
 Projekt vislice na vajah iz predmeta Uvod v Programiranje
 
-## Znani slovenski matematiki:
-- Janez Janša
-- Borut Pahor
-- Jurij Vega
-- Ivan Vidav
-- Josip Plemelj
+# Navodila za zagon igre
+
+V pythonu poženete tekstovni vmesnik z ukazom
+'python3 -i tekstovni_vmesnik.py'
